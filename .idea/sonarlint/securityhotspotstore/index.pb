@@ -39,9 +39,6 @@ I
 src/App.test.js,9\2\923703ced91ac38943d37930d9d27a7ebe8f01ad
 J
 public/css/event/style.css,c\0\c0d5af284fa9946450b3c78eb5c47adbbd8f9e54
-:
-
-src/App.js,1\e\1e43fa63aecd2127be034b3fb9d4caa172275714
 H
 public/css/style.css.map,a\e\ae95158ea3eee86dc173776d9986556a01ba8191
 ;
@@ -67,10 +64,6 @@ F
 src/pages/MyEvents.jsx,f\1\f127536933e9986a30a9dfa98177abfb34501fc7
 D
 src/pages/Signin.jsx,f\0\f0d5c70c242fe37366885496ee66adbc03e101a2
-G
-src/pages/Dashboard.jsx,a\1\a1b8ba7631773a19eacf3537ecb443f8eee6b9c7
-B
-src/pages/Home.jsx,4\3\430200dcc19df010a7afe234d14af8f3c4a0b33b
 T
 $src/pages/AllEventsWithDashboard.jsx,3\4\3494ce8e63c02cc1561d55b4ee726e56ae5909bc
 J

@@ -7,6 +7,12 @@ import signature3 from '../images/signature-3.png';
 import logo from '../components/logo/logo.png'
 import { Link } from 'react-router-dom';
 
+import Hotjar from '@hotjar/browser';
+
+const siteId = 3532631;
+const hotjarVersion = 6;
+
+Hotjar.init(siteId, hotjarVersion);
 
 
 
@@ -20,6 +26,8 @@ function Home() {
 
 
 {/* <!-- NAV BAR PART START --> */}
+
+
 <nav id="navbar-id" className="navbar navbar-expand-lg navbar-fixed-top navbar-light cf-nav">
     <div className="container ">
 

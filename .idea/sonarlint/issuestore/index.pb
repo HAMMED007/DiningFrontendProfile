@@ -36,23 +36,16 @@ T
 $src/pages/AllEventsWithDashboard.jsx,3\4\3494ce8e63c02cc1561d55b4ee726e56ae5909bc
 ;
 src/App.css,a\a\aa7165aefcf8ee3d73539e99ab007daf1aa18d8d
-:
-
-src/App.js,1\e\1e43fa63aecd2127be034b3fb9d4caa172275714
 ?
 src/App.test.js,9\2\923703ced91ac38943d37930d9d27a7ebe8f01ad
 H
 public/js/main/custom.js,3\7\379b933f0d6220c2fc0c2851859cb6323d2b6dff
-G
-src/pages/Dashboard.jsx,a\1\a1b8ba7631773a19eacf3537ecb443f8eee6b9c7
 Q
 !public/webfonts/fa-brands-400.svg,7\d\7dff4fe230f8db87e16f631b474e3831e3c36ef3
 R
 "public/webfonts/fa-regular-400.svg,5\7\570e7a8018fae89e576c48f9864b28658ec31c87
 P
  public/webfonts/fa-solid-900.svg,f\2\f29e9a821ab927a5589b0d71a6cee7889f0e4164
-B
-src/pages/Home.jsx,4\3\430200dcc19df010a7afe234d14af8f3c4a0b33b
 =
 src/index.css,c\5\c5d38a62d1faae90a2acaa34b79a7ef365c917e4
 A
