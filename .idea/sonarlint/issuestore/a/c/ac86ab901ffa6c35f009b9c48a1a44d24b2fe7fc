@@ -1,0 +1,12 @@
+
+=	css:S46481"#Unexpected duplicate name monospace(Á¯›»ùÿÿÿÿ
+W	css:S4666,"=Unexpected duplicate selector "strong", first used at line 40(¢Èğûÿÿÿÿ
+y	css:S4666E"eUnexpected duplicate selector "button,
+        input", first used at line 61 (no-duplicate-selectors)(İà´
+Q	css:S4666™";Unexpected duplicate selector "html", first used at line 14(óàÂ
+X	css:S4666ª"=Unexpected duplicate selector "button", first used at line 74(è™ˆˆúÿÿÿÿ
+’	css:S4666´"wUnexpected duplicate selector "*,
+        *::before,
+        *::after", first used at line 159 (no-duplicate-selectors)(Å´¡Òøÿÿÿÿ
+z	css:S4666Ã"eUnexpected duplicate selector "button,
+        input", first used at line 61 (no-duplicate-selectors)(İà´

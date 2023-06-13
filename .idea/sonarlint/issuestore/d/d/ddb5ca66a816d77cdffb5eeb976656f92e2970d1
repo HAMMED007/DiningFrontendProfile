@@ -1,0 +1,8 @@
+
+ø	css:S4666í"ÜUnexpected duplicate selector ".about-us .col-right .phone p:nth-child(2),
+    .about-us .col-right .days p:nth-child(2),
+    .about-us .col-right .hours p:nth-child(2)", first used at line 167 (no-duplicate-selectors)(•¿»øÿÿÿÿ
+r	css:S4666È
+"WUnexpected duplicate selector ".about-us .col-right h2::after", first used at line 1336(ñöÈÚûÿÿÿÿ
+q	css:S4666"[Unexpected duplicate selector ".newsletter .content .form-control", first used at line 2052(Å¥µ
+r	css:S4666İ"\Unexpected duplicate selector ".page-404 .col-right p:nth-child(2)", first used at line 2649(ä”ü§
