@@ -29,7 +29,7 @@ Front-end: React.
 Back-end: Node.js
 
 
-Database: MongoDB
+Database:Postgres
 
 
 
